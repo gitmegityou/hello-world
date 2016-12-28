@@ -1,0 +1,24 @@
+From 360d1be74c173c970567dfe15ab1241ab916f426 Mon Sep 17 00:00:00 2001
+From: gitmegityou <blowfish888@gmail.com>
+Date: Wed, 28 Dec 2016 12:39:05 -0800
+Subject: [PATCH] Update README.md
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index cf9d3e4..c037aeb 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,5 @@
+ # hello-world
+ my first github for learning
+ gitmegityou here to learn GIT
+-editted from my workstation
+\ No newline at end of file
++editted from my workstation
++editted on the servers
+-- 
+2.1.1
+
